@@ -43,4 +43,5 @@ Once you've found that folder, open the command interface and run the following 
 ## Video Presentation
 The video presentation of this project can be found at the following link:
 https://youtu.be/lRK5qkAvrHY
+To give a modicum of context, though I hadn't been able to get my unit test coverage and end-to-end tests to work for a bit, right before I was ready to film the presentation, my api stopped launching, claiming that another process was preventing it from opening. I apologise for the rushed video and what I was unable to fix.
 
