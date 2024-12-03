@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Trevor\AppData\Local\JetBrains\Rider2024.3\resharper-host\temp\Rider\vAny\CoverageData\_SWE3643_Project.1907982980\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d017bc20_002D50ee_002D44a9_002Da963_002D665f9ed26bf5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ExampleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42FF56D3-CD11-482C-87DA-ED7715F0D1B4::net6.0::PlaywrightTests.ExampleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42FF56D3-CD11-482C-87DA-ED7715F0D1B4::net6.0::ExampleTest2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42FF56D3-CD11-482C-87DA-ED7715F0D1B4::net6.0::PlaywrightTests.CalculatorTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

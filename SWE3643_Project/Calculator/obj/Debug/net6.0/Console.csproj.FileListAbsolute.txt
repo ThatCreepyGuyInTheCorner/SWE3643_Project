@@ -1,0 +1,15 @@
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\bin\Debug\net6.0\Console.exe
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\bin\Debug\net6.0\Console.deps.json
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\bin\Debug\net6.0\Console.runtimeconfig.json
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\bin\Debug\net6.0\Console.dll
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\bin\Debug\net6.0\Console.pdb
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.AssemblyInfoInputs.cache
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.AssemblyInfo.cs
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.sourcelink.json
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.dll
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\refint\Console.dll
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.pdb
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\Console.genruntimeconfig.cache
+D:\Documents\GitHub\SWE3643_Project\SWE3643_Project\Console\obj\Debug\net6.0\ref\Console.dll

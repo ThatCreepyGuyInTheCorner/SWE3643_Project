@@ -1,0 +1,1 @@
+dotnet run --project ./SWE3643_Project/WebApi/WebApi.csproj
